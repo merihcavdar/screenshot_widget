@@ -1,16 +1,9 @@
-# screenshot_widget
+# Screenshot and Share Widget
 
-A new Flutter project.
+an app for taking a screenshot of a widget and then sharing it
 
-## Getting Started
+## screenshot
+![screenshot_share](https://github.com/merihcavdar/screenshot_widget/assets/84540989/44e4abd5-31f5-41ff-8335-0f0795b8fb1c)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- 3rd party package usage (share_plus, screenshot)
